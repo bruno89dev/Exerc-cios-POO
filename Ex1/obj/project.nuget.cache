@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "uDVxdvx2eTzR8Jqv+28F8hYnCYVmEWCF79QoFn6CFrqNdfXSX6jYy60YEyGxHC73u4tufiT547TvZcIL7YhYow==",
+  "success": true,
+  "projectFilePath": "C:\\Projetos\\Ex1\\Ex1.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Pichau\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+  ],
+  "logs": []
+}
